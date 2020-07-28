@@ -1,1 +1,1 @@
-"# google_authenticator" 
+"Two-factor Authenticator" 
